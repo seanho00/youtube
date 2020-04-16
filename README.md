@@ -1,2 +1,2 @@
-# seanho.com/sermons
-Redirect to sermons.seanho.com
+# youtube.seanho.com
+Redirect to YouTube channel URL
